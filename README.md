@@ -119,7 +119,7 @@ The Carbon Credit eXchange (CCX) currently handles project verification through 
 
 In compliance with Planetary’s AI policy, here are the access links to two ChatGPT conversations used to contribute to the design content:
 
-https://chatgpt.com/share/685e0a46-f290-8000-9b98-3be33f1cd6d6
+https://chatgpt.com/share/685e0a46-f290-8000-9b98-3be33f1cd6d6<br>
 https://chatgpt.com/share/685e0e47-ca4c-8000-ba16-24e636c98d23
 
 ---
@@ -128,8 +128,8 @@ https://chatgpt.com/share/685e0e47-ca4c-8000-ba16-24e636c98d23
 
 ### Banana Haiku
 
-What fruit do you like
-Bananas are my favourite
+What fruit do you like<br>
+Bananas are my favourite<br>
 Robots don't make art
 
 ## Thanks
